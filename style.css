@@ -1,0 +1,20 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
+
+/* Reset CSS */
+
+
+/* variable css */
+
+:root {
+    --background-color: #1c2841;
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --success-color: #28a745;
+    --danger-color: #dc3545;
+    --warning-color: #ffc107;
+    --link-btn-color: var(--primary-color);
+    --medium-dont-size: 14px;
+    --input-border: #01093F;
+}
